@@ -20,3 +20,7 @@ if opc==2:
         if i%2!=0 and i%7!=0:
             cont=cont+1
     print("La cantidad de numeros impares menos multiplos de 7 es: ",cont)
+else:
+    if opc>=3:
+        print("ERROR ... NO EXISTE TAL OPCION ")
+        print("EL PROGRAMA SE ESTA CERRANDO EJECUTE NUEVAMENTE ... ")

@@ -1,7 +1,7 @@
 #Ejemplo
 print("CALCULADORA")
-print("1)-- SUMA Y RESTA")
-print("2)-- NUMEROS IMPARES MENOS MULTIPLO DE 7")
+print("\t\n1)- SUMA Y RESTA")
+print(" \t\n2 )-- NUMEROS IMPARES MENOS MULTIPLO DE 7")
 opc=int(input("Seleccione la opcion a realizar: "))
 if opc==1:
     a=int(input("Ingrese un numero entero: "))

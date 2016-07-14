@@ -142,5 +142,6 @@ def continuar():
         menu()
     else :
         print("La opcion ingresada es incorrecta")
+        print("Intentelo de nuevo")
         continuar()
 entrada()
